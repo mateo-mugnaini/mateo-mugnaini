@@ -8,6 +8,7 @@ Estoy formado como Full Stack Developer en el bootcamp de Soy Henry, bootcamp do
 
 # 🚀 Tecnologías:
 📌 Javascript <br>
+📌 Next <br>
 📌 ReactJS <br>
 📌 Redux <br>
 📌 HTML <br>
